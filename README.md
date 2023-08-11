@@ -24,6 +24,10 @@ Export the tweets as JSON.
 Generate 30 more quotes about success in the same format.
 ```
 
+```
+Following the same format, generate 50 tweets about <category>.
+```
+
 ## Categories
 
 * Success
