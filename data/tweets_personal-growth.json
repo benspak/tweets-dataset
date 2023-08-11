@@ -2,221 +2,361 @@
   {
     "quote": "The only person you should try to be better than is the person you were yesterday.",
     "author": "Unknown",
-    "tweet": "Strive for a better you today than yesterday 🌱 #PersonalGrowth #BetterEveryDay"
+    "tweet": "Strive for a better you today than yesterday 🌱",
+    "hashtags": ["#PersonalGrowth", "#BetterEveryDay"]
   },
   {
     "quote": "Personal growth is not a matter of learning new information but of unlearning old limits.",
     "author": "Alan Cohen",
-    "tweet": "Break your limits, grow endlessly 🚀 #UnlearnLimits #GrowthMindset"
+    "tweet": "Break your limits, grow endlessly 🚀",
+    "hashtags": ["#UnlearnLimits", "#GrowthMindset"]
   },
   {
     "quote": "Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don't belong.",
     "author": "Mandy Hale",
-    "tweet": "Embrace change and growth, no matter the pain 🌳 #EmbraceChange #PersonalGrowth"
+    "tweet": "Embrace change and growth, no matter the pain 🌳",
+    "hashtags": ["#EmbraceChange", "#PersonalGrowth"]
   },
   {
     "quote": "The only way that we can live, is if we grow. The only way that we can grow is if we change.",
     "author": "C. JoyBell C.",
-    "tweet": "Change to grow, grow to live 🦋 #EmbraceChange #PersonalGrowth"
+    "tweet": "Change to grow, grow to live 🦋",
+    "hashtags": ["#EmbraceChange", "#PersonalGrowth"]
   },
   {
     "quote": "Life begins at the end of your comfort zone.",
     "author": "Neale Donald Walsch",
-    "tweet": "Step out of comfort, embrace growth 🌟 #StepOutOfComfort #PersonalGrowth"
+    "tweet": "Step out of comfort, embrace growth 🌟",
+    "hashtags": ["#StepOutOfComfort", "#PersonalGrowth"]
   },
   {
     "quote": "Investing in yourself is the best investment you will ever make.",
     "author": "Robin Sharma",
-    "tweet": "Invest in yourself, harvest growth 🌻 #InvestInYourself #PersonalGrowth"
+    "tweet": "Invest in yourself, harvest growth 🌻",
+    "hashtags": ["#InvestInYourself", "#PersonalGrowth"]
   },
   {
     "quote": "You'll never be able to grow if you're afraid to lose people during the process.",
     "author": "Unknown",
-    "tweet": "Don't fear loss, embrace growth 🌺 #EmbraceGrowth #PersonalDevelopment"
+    "tweet": "Don't fear loss, embrace growth 🌺",
+    "hashtags": ["#EmbraceGrowth", "#PersonalDevelopment"]
   },
   {
     "quote": "If we don't change, we don't grow. If we don't grow, we aren't really living.",
     "author": "Gail Sheehy",
-    "tweet": "Change, grow, live fully 🌼 #ChangeToGrow #PersonalGrowth"
-  },
-  {
-    "quote": "The only time you fail is when you fall down and stay down.",
-    "author": "Stephen Richards",
-    "tweet": "Rise and grow from failure 🌄 #LearnFromFailure #PersonalGrowth"
-  },
-  {
-    "quote": "Personal growth becomes so addictive once you realize that it's always possible to improve your experience of being.",
-    "author": "Unknown",
-    "tweet": "Keep improving, keep growing 💪 #NeverStopGrowing #PersonalGrowth"
-  },
-  {
-    "quote": "You cannot dream yourself into a character; you must hammer and forge yourself one.",
-    "author": "Henry David Thoreau",
-    "tweet": "Forge yourself through growth 🔨 #ForgeYourself #PersonalGrowth"
-  },
-  {
-    "quote": "The beautiful journey of today can only begin when we learn to let go of yesterday.",
-    "author": "Steve Maraboli",
-    "tweet": "Let go of yesterday, grow today 🌞 #LetGoAndGrow #PersonalGrowth"
-  },
-  {
-    "quote": "Growth starts with a decision to move beyond your present circumstances.",
-    "author": "Robert Tew",
-    "tweet": "Decide to grow beyond now 🌲 #MoveBeyond #PersonalGrowth"
-  },
-  {
-    "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
-    "author": "Joshua J. Marine",
-    "tweet": "Embrace challenges, embrace growth 🏔️ #EmbraceChallenges #PersonalGrowth"
-  },
-  {
-    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
-    "author": "Franklin D. Roosevelt",
-    "tweet": "No doubts, only growth 🚫 #NoDoubts #PersonalGrowth"
-  },
-  {
-    "quote": "What comes easy won't last long, and what lasts long won't come easy.",
-    "author": "Unknown",
-    "tweet": "Work for it, grow from it 🌳 #WorkHardGrowHard #PersonalGrowth"
-  },
-  {
-    "quote": "The purpose of life is to grow.",
-    "author": "Unknown",
-    "tweet": "Live to grow, grow to live 🌱 #LiveToGrow #PersonalGrowth"
-  },
-  {
-    "quote": "Personal development is a major time-saver. The better you become, the less time it takes you to achieve your goals.",
-    "author": "Brian Tracy",
-    "tweet": "Develop yourself, save time ⏰ #PersonalDevelopment #GrowthMindset"
-  },
-  {
-    "quote": "The only journey is the one within.",
-    "author": "Rainer Maria Rilke",
-    "tweet": "Journey within, discover growth 🌍 #InnerJourney #PersonalGrowth"
+    "tweet": "Change, grow, live fully 🌼",
+    "hashtags": ["#ChangeToGrow", "#PersonalGrowth"]
   },
   {
     "quote": "Growth is never by mere chance; it's the result of forces working together.",
     "author": "James Cash Penney",
-    "tweet": "Work together, grow together 🤝 #TeamGrowth #PersonalGrowth"
+    "tweet": "Combine forces, achieve growth 🌲",
+    "hashtags": ["#AchieveGrowth", "#WorkTogether"]
   },
   {
-    "quote": "Don't go through life, grow through life.",
-    "author": "Eric Butterworth",
-    "tweet": "Grow through life, not just go 🌾 #GrowThroughLife #PersonalGrowth"
-  },
-  {
-    "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
-    "author": "Ernest Hemingway",
-    "tweet": "Be superior to your former self, grow 🎩 #BeBetter #PersonalGrowth"
-  },
-  {
-    "quote": "Growth is the great separator between those who succeed and those who do not.",
-    "author": "John C. Maxwell",
-    "tweet": "Embrace growth, embrace success 🌟 #GrowthMindset #PersonalGrowth"
-  },
-  {
-    "quote": "Growth is an erratic forward movement: two steps forward, one step back.",
-    "author": "Sharon Salzberg",
-    "tweet": "Keep moving, keep growing 🏃 #KeepMovingForward #PersonalGrowth"
-  },
-  {
-    "quote": "He who has a why to live can bear almost any how.",
-    "author": "Friedrich Nietzsche",
-    "tweet": "Find your why, grow your how 🌳 #FindYourWhy #PersonalGrowth"
-  },
-  {
-    "quote": "Be not afraid of growing slowly, be afraid only of standing still.",
-    "author": "Chinese Proverb",
-    "tweet": "Grow slowly, just don't stand still 🐢 #KeepGrowing #PersonalGrowth"
-  },
-  {
-    "quote": "Growth begins when we begin to accept our own weakness.",
-    "author": "Jean Vanier",
-    "tweet": "Accept weakness, embrace growth 🌱 #AcceptWeakness #PersonalGrowth"
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tweet": "Erase doubts, embrace growth 🌈",
+    "hashtags": ["#EraseDoubts", "#EmbraceGrowth"]
   },
   {
     "quote": "All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.",
     "author": "Calvin Coolidge",
-    "tweet": "Effort and work, keys to growth 🔑 #EffortAndWork #PersonalGrowth"
+    "tweet": "Effort equals growth, keep pushing 💪",
+    "hashtags": ["#EffortEqualsGrowth", "#KeepPushing"]
   },
   {
-    "quote": "Strength and growth come only through continuous effort and struggle.",
-    "author": "Napoleon Hill",
-    "tweet": "Struggle and effort, pathways to growth 💪 #StruggleAndGrow #PersonalGrowth"
+    "quote": "Don't go through life, grow through life.",
+    "author": "Eric Butterworth",
+    "tweet": "Grow through life, evolve and thrive 🌷",
+    "hashtags": ["#GrowThroughLife", "#EvolveAndThrive"]
+  },
+  {
+    "quote": "The growth and development of people is the highest calling of leadership.",
+    "author": "Harvey S. Firestone",
+    "tweet": "Lead growth, develop people 🏆",
+    "hashtags": ["#LeadGrowth", "#DevelopPeople"]
+  },
+  {
+    "quote": "Be not afraid of growing slowly, be afraid only of standing still.",
+    "author": "Chinese Proverb",
+    "tweet": "Keep moving, keep growing 🏃‍♂️",
+    "hashtags": ["#KeepMoving", "#KeepGrowing"]
   },
   {
     "quote": "Growth itself contains the germ of happiness.",
     "author": "Pearl S. Buck",
-    "tweet": "Find happiness in growth 🌺 #HappinessInGrowth #PersonalGrowth"
+    "tweet": "Find happiness in growth, bloom with joy 🌸",
+    "hashtags": ["#HappinessInGrowth", "#BloomWithJoy"]
   },
   {
-    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-    "author": "Nelson Mandela",
-    "tweet": "Rise and grow from every fall 🌄 #RiseAndGrow #PersonalGrowth"
+    "quote": "We find comfort among those who agree with us - growth among those who don't.",
+    "author": "Frank A. Clark",
+    "tweet": "Seek disagreement, foster growth 🌐",
+    "hashtags": ["#SeekDisagreement", "#FosterGrowth"]
   },
   {
-    "quote": "Personal growth and self-development do not end when you 'arrive' but continues as long as curiosity and learning persist.",
-    "author": "Unknown",
-    "tweet": "Never stop growing, keep learning 📚 #NeverStopGrowing #PersonalGrowth"
+    "quote": "Conformity is the jailer of freedom and the enemy of growth.",
+    "author": "John F. Kennedy",
+    "tweet": "Break conformity, embrace growth 🗝️",
+    "hashtags": ["#BreakConformity", "#EmbraceGrowth"]
   },
   {
-    "quote": "The growth of one blesses all. I am committed to grow in love.",
-    "author": "Julia Cameron",
-    "tweet": "Grow in love, bless all ❤️ #GrowInLove #PersonalGrowth"
+    "quote": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning.",
+    "author": "Benjamin Franklin",
+    "tweet": "Progress in growth, achieve success 🎯",
+    "hashtags": ["#ProgressInGrowth", "#AchieveSuccess"]
   },
   {
-    "quote": "Don't be pushed by your problems; be led by your dreams.",
-    "author": "Ralph Waldo Emerson",
-    "tweet": "Lead by dreams, grow endlessly 🌈 #LeadByDreams #PersonalGrowth"
-  },
-  {
-    "quote": "The self is not something ready-made, but something in continuous formation through choice of action.",
-    "author": "John Dewey",
-    "tweet": "Form yourself through action, grow 🏃 #ContinuousGrowth #PersonalGrowth"
-  },
-  {
-    "quote": "Learning never exhausts the mind.",
-    "author": "Leonardo da Vinci",
-    "tweet": "Keep learning, keep growing 🧠 #NeverStopLearning #PersonalGrowth"
-  },
-  {
-    "quote": "Growth demands a temporary surrender of security.",
-    "author": "Gail Sheehy",
-    "tweet": "Surrender security, embrace growth 🌳 #EmbraceGrowth #PersonalGrowth"
-  },
-  {
-    "quote": "We must become the change we wish to see in the world.",
-    "author": "Mahatma Gandhi",
-    "tweet": "Be the change, grow within 🌍 #BeTheChange #PersonalGrowth"
-  },
-  {
-    "quote": "The only thing that is constant is change.",
-    "author": "Heraclitus",
-    "tweet": "Change is constant, grow with it 🌊 #ChangeAndGrow #PersonalGrowth"
-  },
-  {
-    "quote": "In the process of letting go, you will lose many things from the past, but you will find yourself.",
-    "author": "Deepak Chopra",
-    "tweet": "Let go, find yourself, grow 🎈 #LetGoAndGrow #PersonalGrowth"
-  },
-  {
-    "quote": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs",
-    "tweet": "Love what you do, grow in it ❤️ #LoveAndGrow #PersonalGrowth"
+    "quote": "If you're not growing, you're dying.",
+    "author": "Tony Robbins",
+    "tweet": "Choose to grow, choose life 🌺",
+    "hashtags": ["#ChooseToGrow", "#ChooseLife"]
   },
   {
     "quote": "Growth is the only evidence of life.",
     "author": "John Henry Newman",
-    "tweet": "Show life, show growth 🌳 #EvidenceOfLife #PersonalGrowth"
+    "tweet": "Embrace growth, live fully 🌻",
+    "hashtags": ["#EmbraceGrowth", "#LiveFully"]
   },
   {
-    "quote": "Personal growth is the process of growing stronger, more confident, and more effective as a person and an agent in the world.",
-    "author": "Unknown",
-    "tweet": "Grow stronger, confident, effective 💪 #GrowStronger #PersonalGrowth"
+    "quote": "Growth is an erratic forward movement: two steps forward, one step back. Remember that and be very gentle with yourself.",
+    "author": "Julia Cameron",
+    "tweet": "Grow erratically but surely, be gentle 🌹",
+    "hashtags": ["#GrowErratically", "#BeGentle"]
   },
   {
-    "quote": "The key to growth is acknowledging your fear of the unknown and jumping in anyway.",
-    "author": "Jen Sincero",
-    "tweet": "Acknowledge fear, jump into growth 🏊 #JumpIntoGrowth #PersonalGrowth"
+    "quote": "The mind, once stretched by a new idea, never returns to its original dimensions.",
+    "author": "Ralph Waldo Emerson",
+    "tweet": "Stretch the mind, embrace growth 💡",
+    "hashtags": ["#StretchTheMind", "#EmbraceGrowth"]
+  },
+  {
+    "quote": "Growth is the great separator between those who succeed and those who do not. When I see a person beginning to separate themselves from the pack, it's almost always due to personal growth.",
+    "author": "John C. Maxwell",
+    "tweet": "Separate with growth, succeed in life 🏅",
+    "hashtags": ["#SeparateWithGrowth", "#SucceedInLife"]
+  },
+  {
+    "quote": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+    "author": "Napoleon Hill",
+    "tweet": "Find growth in adversity, rise stronger 🌳",
+    "hashtags": ["#GrowthInAdversity", "#RiseStronger"]
+  },
+  {
+    "quote": "The greatest gift you can give somebody is your own personal development. I used to say, 'If you will take care of me, I will take care of you.' Now I say, 'I will take care of me for you if you will take care of you for me.'",
+    "author": "Jim Rohn",
+    "tweet": "Grow for others, grow for yourself 🌼",
+    "hashtags": ["#GrowForOthers", "#GrowForYourself"]
+  },
+  {
+    "quote": "The growth of understanding follows an ascending spiral rather than a straight line.",
+    "author": "Joanna Field",
+    "tweet": "Follow the spiral, embrace growth 🌀",
+    "hashtags": ["#FollowTheSpiral", "#EmbraceGrowth"]
+  },
+  {
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar",
+    "tweet": "Become through growth, achieve your goals 🎖️",
+    "hashtags": ["#BecomeThroughGrowth", "#AchieveGoals"]
+  },
+  {
+    "quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.",
+    "author": "Henry Ford",
+    "tweet": "Keep learning, keep growing 📚",
+    "hashtags": ["#KeepLearning", "#KeepGrowing"]
+  },
+  {
+    "quote": "Strength and growth come only through continuous effort and struggle.",
+    "author": "Napoleon Hill",
+    "tweet": "Effort and struggle lead to growth 💪",
+    "hashtags": ["#EffortAndStruggle", "#LeadToGrowth"]
+  },
+  {
+    "quote": "The swiftest way to triple your success is to double your investment in personal development.",
+    "author": "Robin Sharma",
+    "tweet": "Invest in growth, triple success 💼",
+    "hashtags": ["#InvestInGrowth", "#TripleSuccess"]
+  },
+  {
+    "quote": "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.",
+    "author": "Abigail Adams",
+    "tweet": "Seek growth, attend with diligence 🎓",
+    "hashtags": ["#SeekGrowth", "#AttendWithDiligence"]
+  },
+  {
+    "quote": "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
+    "author": "Charles Du Bos",
+    "tweet": "Sacrifice for growth, become better 🌱",
+    "hashtags": ["#SacrificeForGrowth", "#BecomeBetter"]
+  },
+  {
+    "quote": "People wish to be settled; only as far as they are unsettled is there any hope for them.",
+    "author": "Ralph Waldo Emerson",
+    "tweet": "Stay unsettled, hope and grow 🌄",
+    "hashtags": ["#StayUnsettled", "#HopeAndGrow"]
+  },
+  {
+    "quote": "We grow small trying to be great.",
+    "author": "E. Stanley Jones",
+    "tweet": "Aim for greatness, but grow humbly 🌼",
+    "hashtags": ["#AimForGreatness", "#GrowHumbly"]
+  },
+  {
+    "quote": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "tweet": "Success in growth, become who you are 👤",
+    "hashtags": ["#SuccessInGrowth", "#BecomeWhoYouAre"]
+  },
+  {
+    "quote": "Growth is painful. Change is painful. But, nothing is as painful as staying stuck where you do not belong.",
+    "author": "N. R. Narayana Murthy",
+    "tweet": "Don't stay stuck, embrace growth 🌲",
+    "hashtags": ["#DontStayStuck", "#EmbraceGrowth"]
+  },
+  {
+    "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+    "author": "Viktor Frankl",
+    "tweet": "Change yourself, grow and adapt 🌊",
+    "hashtags": ["#ChangeYourself", "#GrowAndAdapt"]
+  },
+  {
+    "quote": "The future belongs to those who learn more skills and combine them in creative ways.",
+    "author": "Robert Greene",
+    "tweet": "Learn and combine, grow creatively 🎨",
+    "hashtags": ["#LearnAndCombine", "#GrowCreatively"]
+  },
+  {
+    "quote": "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
+    "author": "Lao Tzu",
+    "tweet": "Introduce higher dimensions, grow consciously 🌌",
+    "hashtags": ["#HigherDimensions", "#GrowConsciously"]
+  },
+  {
+    "quote": "Personal development is the belief that you are worth the effort, time, and energy needed to develop yourself.",
+    "author": "Denis Waitley",
+    "tweet": "Invest in growth, you are worth it 🌟",
+    "hashtags": ["#InvestInGrowth", "#YouAreWorthIt"]
+  },
+  {
+    "quote": "To earn more, you must learn more.",
+    "author": "Brian Tracy",
+    "tweet": "Learn more, grow more 📈",
+    "hashtags": ["#LearnMore", "#GrowMore"]
+  },
+  {
+    "quote": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn",
+    "tweet": "Change and grow, better your life 🌷",
+    "hashtags": ["#ChangeAndGrow", "#BetterYourLife"]
+  },
+  {
+    "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+    "author": "Mortimer Adler",
+    "tweet": "Continue to learn, continue to grow 🌺",
+    "hashtags": ["#ContinueToLearn", "#ContinueToGrow"]
+  },
+  {
+    "quote": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning.",
+    "author": "Benjamin Franklin",
+    "tweet": "Continue growth, define success 🏆",
+    "hashtags": ["#ContinueGrowth", "#DefineSuccess"]
+  },
+  {
+    "quote": "There is no challenge more challenging than the challenge to improve yourself.",
+    "author": "Michael F. Staley",
+    "tweet": "Challenge yourself, grow immensely 🌄",
+    "hashtags": ["#ChallengeYourself", "#GrowImmensely"]
+  },
+  {
+    "quote": "You are essentially who you create yourself to be, and all that occurs in your life is the result of your own making.",
+    "author": "Stephen Richards",
+    "tweet": "Create and grow, you shape your life 🎭",
+    "hashtags": ["#CreateAndGrow", "#ShapeYourLife"]
+  },
+  {
+    "quote": "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.",
+    "author": "Andrew Carnegie",
+    "tweet": "Set growth goals, inspire your hopes 🌅",
+    "hashtags": ["#SetGrowthGoals", "#InspireYourHopes"]
+  },
+  {
+    "quote": "If you want to be successful, it's just this simple. Know what you are doing. Love what you are doing. And believe in what you are doing.",
+    "author": "Will Rogers",
+    "tweet": "Know, love, believe - grow success 🌳",
+    "hashtags": ["#KnowLoveBelieve", "#GrowSuccess"]
+  },
+  {
+    "quote": "In this world you're either growing or you're dying, so get in motion and grow.",
+    "author": "Lou Holtz",
+    "tweet": "Get in motion, grow or die 🌱",
+    "hashtags": ["#GetInMotion", "#GrowOrDie"]
+  },
+  {
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "tweet": "Growth within, the true journey 🌌",
+    "hashtags": ["#GrowthWithin", "#TrueJourney"]
+  },
+  {
+    "quote": "Investing in yourself is the best investment you will ever make. It will not only improve your life, it will improve the lives of all those around you.",
+    "author": "Robin Sharma",
+    "tweet": "Invest in growth, improve lives 🌟",
+    "hashtags": ["#InvestInGrowth", "#ImproveLives"]
+  },
+  {
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "tweet": "Decide and grow, shape your destiny 🌠",
+    "hashtags": ["#DecideAndGrow", "#ShapeYourDestiny"]
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tweet": "Love and grow, do great work 💖",
+    "hashtags": ["#LoveAndGrow", "#DoGreatWork"]
+  },
+  {
+    "quote": "You cannot dream yourself into a character; you must hammer and forge yourself one.",
+    "author": "James A. Froude",
+    "tweet": "Forge and grow, become your dream ✨",
+    "hashtags": ["#ForgeAndGrow", "#BecomeYourDream"]
+  },
+  {
+    "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+    "author": "Joel Brown",
+    "tweet": "Try and believe, grow your dream 🌈",
+    "hashtags": ["#TryAndBelieve", "#GrowYourDream"]
+  },
+  {
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "tweet": "Repeatedly grow, make excellence a habit 🎖️",
+    "hashtags": ["#RepeatedlyGrow", "#ExcellenceAHabit"]
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "tweet": "Stay busy, grow success 🌻",
+    "hashtags": ["#StayBusy", "#GrowSuccess"]
+  },
+  {
+    "quote": "If you genuinely want something, don't wait for it. Teach yourself to be impatient.",
+    "author": "Gurbaksh Chahal",
+    "tweet": "Act now, grow your dreams 🌱",
+    "hashtags": ["#ActNow", "#GrowYourDreams"]
+  },
+  {
+    "quote": "The only thing that will stop you from fulfilling your dreams is you.",
+    "author": "Tom Bradley",
+    "tweet": "Don't stop yourself, grow and dream 🌈",
+    "hashtags": ["#DontStopYourself", "#GrowAndDream"]
+  },
+  {
+    "quote": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi",
+    "tweet": "Act today, grow your future 🌻",
+    "hashtags": ["#ActToday", "#GrowYourFuture"]
   }
 ]
