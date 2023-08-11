@@ -11,25 +11,23 @@ Generate 200 Tweets based on quotes about: success, personal growth, philosophy,
 Optimized Prompt:
 
 ```
-Generate 200 Tweets based on quotes about: success, personal growth, philosophy, software engineering humor, and video game humor.
+Let's continue on our goal of growing our Twitter following. Current follower count: <count>.
+Generate 20 Tweets based on quotes about: <category>. Add in popular hashtags to Tweets. Use one emoji per tweet.
+```
+
+Addon Prompts:
+```
+Export the tweets as JSON.
+```
+
+```
+Generate 30 more quotes about success in the same format.
 ```
 
 ## Categories
 
-### Success
-
-
-
-### Personal Growth
-
-
-
-### Philosophy
-
-
-
-### Software Engineering Humor
-
-
-
-### Video Game Humor
+* Success
+* Personal Growth
+* Philosophy
+* Software Engineering Humor
+* Video Game Humor
