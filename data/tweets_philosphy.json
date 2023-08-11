@@ -2,231 +2,199 @@
   {
     "quote": "The unexamined life is not worth living.",
     "author": "Socrates",
-    "tweet": "Examine life, make it worth living 🧐 #Socrates #Philosophy"
+    "tweet": "Examine life, make it worth living 🧐",
+    "hashtags": ["#Socrates", "#Philosophy"]
   },
   {
     "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
     "author": "Ralph Waldo Emerson",
-    "tweet": "Be yourself, a great accomplishment ✨ #Emerson #Philosophy"
+    "tweet": "Be yourself, a great accomplishment ✨",
+    "hashtags": ["#Emerson", "#Philosophy"]
   },
   {
     "quote": "I think therefore I am.",
     "author": "René Descartes",
-    "tweet": "Thinking, the essence of existence 💭 #Descartes #Philosophy"
+    "tweet": "Thinking, the essence of existence 💭",
+    "hashtags": ["#Descartes", "#Philosophy"]
   },
   {
     "quote": "The only true wisdom is in knowing you know nothing.",
     "author": "Socrates",
-    "tweet": "True wisdom: acknowledging ignorance 🦉 #Socrates #Philosophy"
+    "tweet": "True wisdom: acknowledging ignorance 🦉",
+    "hashtags": ["#Socrates", "#Philosophy"]
   },
   {
     "quote": "The only thing I know is that I know nothing.",
     "author": "Socrates",
-    "tweet": "Knowing nothing, the path to wisdom 🌌 #Socrates #Philosophy"
+    "tweet": "Knowing nothing, the path to wisdom 🌌",
+    "hashtags": ["#Socrates", "#Philosophy"]
   },
   {
     "quote": "Happiness is not an ideal of reason, but of imagination.",
     "author": "Immanuel Kant",
-    "tweet": "Imagine happiness, make it real 😊 #Kant #Philosophy"
+    "tweet": "Imagine happiness, make it real 😊",
+    "hashtags": ["#Kant", "#Philosophy"]
   },
   {
     "quote": "To live is to suffer, to survive is to find some meaning in the suffering.",
     "author": "Friedrich Nietzsche",
-    "tweet": "Find meaning in suffering, survive 🌄 #Nietzsche #Philosophy"
+    "tweet": "Find meaning in suffering, survive 🌄",
+    "hashtags": ["#Nietzsche", "#Philosophy"]
   },
   {
     "quote": "Liberty consists in doing what one desires.",
     "author": "John Stuart Mill",
-    "tweet": "Liberty: following your desires 🗽 #Mill #Philosophy"
+    "tweet": "Liberty: following your desires 🗽",
+    "hashtags": ["#Mill", "#Philosophy"]
   },
   {
     "quote": "Man is born free, and everywhere he is in chains.",
     "author": "Jean-Jacques Rousseau",
-    "tweet": "Born free, seek to break the chains ⛓️ #Rousseau #Philosophy"
+    "tweet": "Born free, seek to break the chains ⛓️",
+    "hashtags": ["#Rousseau", "#Philosophy"]
   },
   {
     "quote": "The life of man is solitary, poor, nasty, brutish, and short.",
     "author": "Thomas Hobbes",
-    "tweet": "Life's harsh, yet fascinating journey 🌪️ #Hobbes #Philosophy"
+    "tweet": "Life's harsh, yet fascinating journey 🌪️",
+    "hashtags": ["#Hobbes", "#Philosophy"]
   },
   {
     "quote": "One cannot step twice into the same river.",
     "author": "Heraclitus",
-    "tweet": "Life's constant change, like a river 🏞️ #Heraclitus #Philosophy"
+    "tweet": "Life's constant change, like a river 🏞️",
+    "hashtags": ["#Heraclitus", "#Philosophy"]
   },
   {
     "quote": "The greatest wealth is to live content with little.",
     "author": "Plato",
-    "tweet": "Contentment in little, true wealth 💰 #Plato #Philosophy"
+    "tweet": "Contentment in little, true wealth 💰",
+    "hashtags": ["#Plato", "#Philosophy"]
   },
   {
     "quote": "It is undesirable to believe a proposition when there is no ground whatever for supposing it true.",
     "author": "Bertrand Russell",
-    "tweet": "Belief without reason, a risky path 🛤️ #Russell #Philosophy"
+    "tweet": "Belief without reason, a risky path 🛤️",
+    "hashtags": ["#Russell", "#Philosophy"]
   },
   {
     "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
     "author": "Alan Watts",
-    "tweet": "Embrace change, join the dance 🕺 #Watts #Philosophy"
+    "tweet": "Embrace change, join the dance 🕺",
+    "hashtags": ["#Watts", "#Philosophy"]
   },
   {
     "quote": "To understand everything is to forgive everything.",
     "author": "Osho",
-    "tweet": "Understanding leads to forgiveness 🙏 #Osho #Philosophy"
+    "tweet": "Understanding leads to forgiveness 🙏",
+    "hashtags": ["#Osho", "#Philosophy"]
   },
   {
     "quote": "The aim of art is to represent not the outward appearance of things, but their inward significance.",
     "author": "Aristotle",
-    "tweet": "Art reveals inward significance 🎨 #Aristotle #Philosophy"
+    "tweet": "Art reveals inward significance 🎨",
+    "hashtags": ["#Aristotle", "#Philosophy"]
   },
   {
-    "quote": "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.",
-    "author": "Jean-Paul Sartre",
-    "tweet": "Condemned to freedom, embrace it 🕊️ #Sartre #Philosophy"
-  },
-  {
-    "quote": "Reality is merely an illusion, albeit a very persistent one.",
-    "author": "Albert Einstein",
-    "tweet": "Reality: a persistent illusion 🌀 #Einstein #Philosophy"
-  },
-  {
-    "quote": "Ignorance, the root and stem of all evil.",
-    "author": "Plato",
-    "tweet": "Fight ignorance, fight evil 👊 #Plato #Philosophy"
-  },
-  {
-    "quote": "He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god.",
-    "author": "Aristotle",
-    "tweet": "Society, a balance between beast and god 🌍 #Aristotle #Philosophy"
-  },
-  {
-    "quote": "The world is full of magical things patiently waiting for our wits to grow sharper.",
-    "author": "Bertrand Russell",
-    "tweet": "Magic awaits, sharpen your wits 🎩 #Russell #Philosophy"
-  },
-  {
-    "quote": "Man is by nature a political animal.",
-    "author": "Aristotle",
-    "tweet": "Nature's politics, a human dance 🐾 #Aristotle #Philosophy"
-  },
-  {
-    "quote": "Life can only be understood backwards; but it must be lived forwards.",
-    "author": "Søren Kierkegaard",
-    "tweet": "Understand life by living forward ⏩ #Kierkegaard #Philosophy"
-  },
-  {
-    "quote": "You can discover more about a person in an hour of play than in a year of conversation.",
-    "author": "Plato",
-    "tweet": "Play reveals more than conversation 🎲 #Plato #Philosophy"
-  },
-  {
-    "quote": "The function of prayer is not to influence God, but rather to change the nature of the one who prays.",
-    "author": "Søren Kierkegaard",
-    "tweet": "Prayer's true function: self-change 🙏 #Kierkegaard #Philosophy"
-  },
-  {
-    "quote": "Those who cannot remember the past are condemned to repeat it.",
-    "author": "George Santayana",
-    "tweet": "Remember the past, avoid repetition 🔄 #Santayana #Philosophy"
-  },
-  {
-    "quote": "Morality is not the doctrine of how we may make ourselves happy, but of how we may make ourselves worthy of happiness.",
-    "author": "Immanuel Kant",
-    "tweet": "Morality's path to worthiness, not just happiness 😇 #Kant #Philosophy"
-  },
-  {
-    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-    "author": "Aristotle",
-    "tweet": "Excellence is a habit, cultivate it 🌱 #Aristotle #Philosophy"
-  },
-  {
-    "quote": "Science is what you know, philosophy is what you don't know.",
-    "author": "Bertrand Russell",
-    "tweet": "Science vs. Philosophy: Known vs. Unknown 🌌 #Russell #Philosophy"
-  },
-  {
-    "quote": "Doubt is the origin of wisdom.",
-    "author": "René Descartes",
-    "tweet": "Doubt wisely, find wisdom 🧠 #Descartes #Philosophy"
-  },
-  {
-    "quote": "The time is always right to do what is right.",
-    "author": "Martin Luther King Jr.",
-    "tweet": "Do right, always the right time ⏰ #MLK #Philosophy"
-  },
-  {
-    "quote": "Out of the crooked timber of humanity, no straight thing was ever made.",
-    "author": "Immanuel Kant",
-    "tweet": "Humanity's crooked timber, embrace the curves 🌲 #Kant #Philosophy"
-  },
-  {
-    "quote": "Wonder is the feeling of the philosopher, and philosophy begins in wonder.",
-    "author": "Plato",
-    "tweet": "Wonder, the beginning of philosophy 🌟 #Plato #Philosophy"
-  },
-  {
-    "quote": "He who dares not grasp the thorn should never crave the rose.",
-    "author": "Anne Brontë",
-    "tweet": "Dare to grasp, earn the rose 🌹 #Bronte #Philosophy"
-  },
-  {
-    "quote": "To do as one would be done by, and to love one's neighbor as oneself, constitute the ideal perfection of utilitarian morality.",
-    "author": "John Stuart Mill",
-    "tweet": "Utilitarian perfection: Love & understanding ❤️ #Mill #Philosophy"
-  },
-  {
-    "quote": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
-    "author": "Albert Camus",
-    "tweet": "Absolute freedom, an act of rebellion ✊ #Camus #Philosophy"
-  },
-  {
-    "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-    "author": "James Baldwin",
-    "tweet": "Face challenges to change them 👀 #Baldwin #Philosophy"
-  },
-  {
-    "quote": "Man is the only creature who refuses to be what he is.",
-    "author": "Albert Camus",
-    "tweet": "Be who you are, not what you refuse 🐾 #Camus #Philosophy"
-  },
-  {
-    "quote": "The greatest happiness of the greatest number is the foundation of morals and legislation.",
-    "author": "Jeremy Bentham",
-    "tweet": "Greatest happiness, a moral foundation 😃 #Bentham #Philosophy"
-  },
-  {
-    "quote": "Truth resides in every human heart, and one has to search for it there, and to be guided by truth as one sees it.",
-    "author": "Mohandas Gandhi",
-    "tweet": "Seek truth in your heart ❤️ #Gandhi #Philosophy"
-  },
-  {
-    "quote": "What does not kill me makes me stronger.",
-    "author": "Friedrich Nietzsche",
-    "tweet": "Survival breeds strength 💪 #Nietzsche #Philosophy"
-  },
-  {
-    "quote": "The mind is furnished with ideas by experience alone.",
-    "author": "John Locke",
-    "tweet": "Experience, the mind's true furnishing 🏠 #Locke #Philosophy"
-  },
-  {
-    "quote": "He who has a why to live can bear almost any how.",
-    "author": "Friedrich Nietzsche",
-    "tweet": "Find your why, bear any how 🎯 #Nietzsche #Philosophy"
-  },
-  {
-    "quote": "We are all fools in love.",
-    "author": "Jane Austen",
-    "tweet": "Love, the universal folly 💘 #Austen #Philosophy"
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tweet": "Love your work, achieve greatness 🚀",
+    "hashtags": ["#Jobs", "#Philosophy"]
   },
   {
     "quote": "I can control my passions and emotions if I can understand their nature.",
     "author": "Spinoza",
-    "tweet": "Control comes with understanding 🎮 #Spinoza #Philosophy"
+    "tweet": "Understand emotions, gain control 🧘",
+    "hashtags": ["#Spinoza", "#Philosophy"]
   },
   {
-    "quote": "Give me beauty in the inward soul; may the outward and the inward man be at one.",
+    "quote": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+    "author": "Albert Camus",
+    "tweet": "Absolute freedom, an act of rebellion 🕊️",
+    "hashtags": ["#Camus", "#Philosophy"]
+  },
+  {
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "tweet": "Willpower, the source of strength 🌟",
+    "hashtags": ["#Gandhi", "#Philosophy"]
+  },
+  {
+    "quote": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "tweet": "Invent the future, shape your destiny ⚙️",
+    "hashtags": ["#Kay", "#Philosophy"]
+  },
+  {
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius",
+    "tweet": "Rise after falling, achieve glory 🌅",
+    "hashtags": ["#Confucius", "#Philosophy"]
+  },
+  {
+    "quote": "Wisdom begins in wonder.",
     "author": "Socrates",
-    "tweet": "Inner beauty, harmony with the outer 🌺 #Socrates #Philosophy"
+    "tweet": "Wonder sparks wisdom, keep questioning 🌌",
+    "hashtags": ["#Socrates", "#Philosophy"]
+  },
+  {
+    "quote": "A thing is not necessarily true because a man dies for it.",
+    "author": "Oscar Wilde",
+    "tweet": "Truth is not validated by sacrifice 🎭",
+    "hashtags": ["#Wilde", "#Philosophy"]
+  },
+  {
+    "quote": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+    "author": "Buddha",
+    "tweet": "Save yourself, walk your own path 🛤️",
+    "hashtags": ["#Buddha", "#Philosophy"]
+  },
+  {
+    "quote": "You can discover more about a person in an hour of play than in a year of conversation.",
+    "author": "Plato",
+    "tweet": "Play reveals more than conversation 🎮",
+    "hashtags": ["#Plato", "#Philosophy"]
+  },
+  {
+    "quote": "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.",
+    "author": "Swami Vivekananda",
+    "tweet": "Thoughts shape us, choose them wisely 🌐",
+    "hashtags": ["#Vivekananda", "#Philosophy"]
+  },
+  {
+    "quote": "When I let go of what I am, I become what I might be.",
+    "author": "Lao Tzu",
+    "tweet": "Letting go, the way to become 🌻",
+    "hashtags": ["#LaoTzu", "#Philosophy"]
+  },
+  {
+    "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+    "author": "Bruce Lee",
+    "tweet": "Pray for strength, not ease 🏋️",
+    "hashtags": ["#BruceLee", "#Philosophy"]
+  },
+  {
+    "quote": "Man does not control his own fate. The women in his life do that for him.",
+    "author": "Groucho Marx",
+    "tweet": "Fate's whimsical control 😂",
+    "hashtags": ["#Marx", "#Philosophy"]
+  },
+  {
+    "quote": "Out of your vulnerabilities will come your strength.",
+    "author": "Sigmund Freud",
+    "tweet": "Vulnerability breeds strength 💪",
+    "hashtags": ["#Freud", "#Philosophy"]
+  },
+  {
+    "quote": "We are more often frightened than hurt; and we suffer more from imagination than from reality.",
+    "author": "Seneca",
+    "tweet": "Fear vs. reality, mind's imagination 🧠",
+    "hashtags": ["#Seneca", "#Philosophy"]
+  },
+  {
+    "quote": "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+    "author": "Arnold Schwarzenegger",
+    "tweet": "Strength through trials 💪",
+    "hashtags": ["#Schwarzenegger", "#Philosophy"]
   }
 ]

@@ -31,7 +31,7 @@ Following the same format, generate 50 tweets about <category>.
 
 ## JSON Data Manipulation with ChatGPT
 
-### Mapping JSON Objects | tweets_personal-growth.json
+### Mapping JSON Objects with ChatGPT
 
 Example of Input Object:
 
@@ -52,7 +52,7 @@ Rewrite each JSON Object in the provided array. Create an additional key value o
 Revised Prompt - fixing logic bug, where the hashtag text remains in the tweet string.
 
 ```
-Output the modified JSON object array. I do not need the code. Just output the altered JSON. Rewrite each JSON Object in the provided array. Create an additional key value of "hashtags" for each object in the provided array. A hashtag is text prepended by the "#" symbol in the "tweet" string. Extract the hashtag text from the "tweet" key string. This text will be associated with the hashtags key of each respective JSON object. Then, remove the hashtag text from the "tweet" string. Please generate the entirely new array, not just the summary of changes. Do not show a snippet. Show the whole multi-item altered array of objects.
+Output the modified JSON object array. I do not need the code. Just output the altered JSON. Rewrite each JSON Object in the provided array. Create an additional key value of "hashtags" for each object in the provided array. A hashtag is text prepended by the "#" symbol in the "tweet" string. Extract the hashtag text from the "tweet" key string. This text will be associated with the hashtags key of each respective JSON object. Then, remove the hashtag text from the "tweet" string. Please generate the entirely new array, not just the summary of changes. Do not show a snippet. Show the whole altered multi-item array of objects.
 ```
 
 Example of Resulting Object:
